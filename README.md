@@ -1,0 +1,1 @@
+# tob-obsidian-config
